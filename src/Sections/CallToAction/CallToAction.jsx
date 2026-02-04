@@ -10,9 +10,7 @@ const CallToAction = () => {
     <section id="cta" className="py-24 px-6 bg-black text-white border-t border-gray-900">
       <div className="max-w-4xl mx-auto text-center">
         {/* Section Marker */}
-        <h2 className="text-sm font-bold tracking-widest text-gray-500 uppercase mb-4">
-          07. Engagement
-        </h2>
+        
 
         {/* Headline */}
         <h3 className="text-4xl md:text-5xl font-extrabold poppins mb-6">
