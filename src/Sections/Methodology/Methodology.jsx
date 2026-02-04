@@ -49,9 +49,7 @@ const Methodology = () => {
 
         {/* Section 5: What We Leave Behind */}
         <div className="bg-white/5 p-10 rounded-3xl border border-gray-800 flex flex-col justify-center">
-          <h2 className="text-sm font-bold tracking-widest text-gray-400 uppercase mb-4">
-            05. What We Leave Behind
-          </h2>
+          
           <h3 className="text-3xl font-bold poppins mb-8">
             The Structural Legacy
           </h3>
